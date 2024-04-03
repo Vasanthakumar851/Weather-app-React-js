@@ -53,11 +53,11 @@ const WeatherDetails = ({
           </div>
         </div>
       </div>
-      <div className="copyright">
+      {/* <div className="copyright">
         <p>
           Designed By <b>Vasanth</b>
         </p>
-      </div>
+      </div> */}
     </>
   );
 };
